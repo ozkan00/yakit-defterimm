@@ -1,0 +1,22 @@
+{
+  "name": "Yakıt Defterim",
+  "short_name": "Yakıt Defterim",
+  "description": "Çevrimdışı yakıt kayıtları ve tüketim özeti",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#10151f",
+  "theme_color": "#10151f",
+  "icons": [
+    {
+      "src": "./icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "./icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
